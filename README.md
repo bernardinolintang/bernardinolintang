@@ -3,11 +3,11 @@
 I'm currently a Year 3 Data Science and Analytics Student at the National University of Singapore.
 Feel free to reach out to me! I'm currently interested in 2026 Internships.
 
-[![Visitors](https://api.visitorbadge.io/badge?page_id=[bernardinolintang].[bernardinolintang]&color=0e7578)]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.bernardinolintang)
 
 ### 💻 Languages/Technologies:
 
-![My Skills](https://skillicons.dev/icons?i=python,java,mysql,tensorflow,react,nodejs,docker,git,aws,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=python,java,mysql,r,html,css,js)
 
 ### 📧 Contacts/Profiles
 
