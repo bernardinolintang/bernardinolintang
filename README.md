@@ -1,9 +1,9 @@
 # Hello there, nice to meet you! I'm Bernardino Lintang! 👋
 
-I'm currently a Year 3 Data Science and Analytics Student at the National Univeristy of Singapore.
+I'm currently a Year 3 Data Science and Analytics Student at the National University of Singapore.
 Feel free to reach out to me! I'm currently interested in 2026 Internships.
 
-[![Visitors](https://api.visitorbadge.io/badge?page_id=[bernardinolintang].[bernardinolintang]&color=0e7578)](https://visitorbadge.io/status?page_id=[bernardinolintang].[bernardinolintang])
+[![Visitors](https://api.visitorbadge.io/badge?page_id=[bernardinolintang].[bernardinolintang]&color=0e7578)]
 
 ### 💻 Languages/Technologies:
 
