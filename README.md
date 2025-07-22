@@ -13,7 +13,7 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
 ### ⚙️ Core Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,tableau,r,notebook,colab"/>
+  <img src="https://skillicons.dev/icons?i=py,r,java,ts,js,css,md" />
 </p>
 
 ### 📊 Data Analysis & Visualization
