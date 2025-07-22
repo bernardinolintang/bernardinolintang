@@ -9,9 +9,41 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
 
 # Welcome! 👋
 
-### 💻 Languages/Technologies:
+## 🛠️ Tech Stack
+### ⚙️ Core Languages & Frameworks
 
-![My Skills](https://skillicons.dev/icons?i=python,java,mysql,r,html,css,js)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,r,java,ts,js,css,md" />
+</p>
+
+### 📊 Data Analysis & Visualization
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,tableau,r,notebook,colab" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn,huggingface" />
+  <img src="https://img.shields.io/badge/LangChain-F0E8FF?style=for-the-badge&logo=langchain&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangGraph-FFDD00?style=for-the-badge&logo=langgraph&logoColor=black" />
+  <img src="https://img.shields.io/badge/CrewAI-404040?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-E0E0E0?style=for-the-badge&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Claude-FFDD00?style=for-the-badge&logo=anthropic&logoColor=black" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🌐 Web Development & APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,npm,flask,fastapi,threejs,gsap,tailwind,streamlit,postman,json,pydantic,selenium" />
+</p>
+
+### 💾 Data Storage & Management
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,postgresql,sqlite,airtable,bigquery,fivetran" />
+</p>
 
 ### 📧 Contacts/Profiles
 
