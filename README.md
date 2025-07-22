@@ -13,7 +13,7 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
 ### ⚙️ Core Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,r,java,ts,js,css" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,tableau,r,notebook,colab"/>
 </p>
 
 ### 📊 Data Analysis & Visualization
@@ -22,7 +22,6 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,tableau,r,notebook,colab"/>
 </p>
 
-### 🤖 AI & Machine Learning
 
 ### 🤖 AI & Machine Learning
 
@@ -46,7 +45,7 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
 
 ### 🗂️ Miscellaneous
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
 
 ### 📧 Contacts/Profiles
 
