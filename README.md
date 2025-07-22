@@ -19,15 +19,15 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
 ### 📊 Data Analysis & Visualization
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i= numpy, pandas, matplotlib, plotly,tableau, r, notebook, colab"/>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,plotly,tableau,r,notebook,colab"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow, keras, sklearn"/>
-  <img src="https://img.shields.io/badge/Claude-FFDD00?style=for-the-badge&logo=anthropic&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the badge&logo=openai&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,sklearn"/>
+  <img src="https://img.shields.io/badge/Claude-FFDD00?style=for-the-badge&logo=anthropic&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development & APIs
@@ -41,6 +41,11 @@ Feel free to reach out to me! I'm currently interested in 2026 Internships.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=supabase,postgresql,sqlite,bigquery" />
 </p>
+
+### 🗂️ Miscellaneous
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
 
 ### 📧 Contacts/Profiles
 
