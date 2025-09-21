@@ -4,7 +4,7 @@ I'm currently a Year 3 Data Science and Analytics Student at the National Univer
 Feel free to reach out to me! I'm currently interested in 2026 Internships.
 
 <p align="left">
-  <img src="https://api.visitorbadge.io/badge?page_id=bernardinolintang.bernardinolintang&color=0e7578&label=visitors" alt="visitors" />
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=bernardinolintang.bernardinolintang&left_color=black&right_color=blue)
 </p>
 
 # Welcome! 👋
