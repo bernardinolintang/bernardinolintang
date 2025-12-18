@@ -82,7 +82,9 @@
 ---
 
 ## 💼 Experience
-- **Operations (Data Science) Intern @ Superbank (May–Aug 2025)**  
+- **Artificial Intelligence Entrepreneur Intern @ Crayon Data (Dec 2025 - Jan 2026)**  
+  → Built LLM-powered data extraction and agentic workflows to transform unstructured merchant offers into schema-compliant datasets, reducing manual processing and improving data quality at scale.
+- **Operations (Data Science) Intern @ Superbank (May – Aug 2025)**  
   → Engineered 200+ fraud detection features in Python/SQL, optimised queries on 50M+ records (~40% faster), built real-time monitoring pipelines in Snowflake.  
 - **Head of Branding & Marketing @ Developer Group, NUS Computing (Jul 2025 – Present)**  
   → Leading branding initiatives and managing associates for impactful events.  
