@@ -14,9 +14,10 @@
 
 ## 🧑‍💻 About Me
 - 🌱 Pursuing a **B.Sc. (Hons) in Data Science & Analytics**  
-- 💡 Strong interests in **AI/ML, FinTech, and Product Development**  
-- 🚀 Experienced in **data science, operations, and leadership** through internships and student organisations  
-- 🏆 Finalist at NUS SDS Datathon 2024 (Top 5/75 teams)
+- 💡 Strong interests in **AI/ML, AI Agents, Machine Learning, and Product Development**  
+- 🚀 Experienced in **data science, operations, and leadership** through internships and student organisations.
+- 🏆 Finalist at NUS SDS Datathon 2026 (Top 1/76 teams)
+- 🏆 Finalist at NUS SDS Datathon 2025 (Top 5/75 teams)
 - 🏆 Finalist at NUS SDS Hackathon 2025 (Top 3/40 teams)  
 - ✨ Believer in teamwork, adaptability, and continuous learning  
 
