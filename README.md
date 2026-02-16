@@ -1,7 +1,7 @@
 # Hello! I'm Bernardino Lintang! 👋
 
 🎓 Year 3 Data Science & Analytics Student @ National University of Singapore (NUS)  
-💼 Actively seeking **2026 Internship Opportunities**  
+💼 Actively seeking **2026 Aug - Dec and 2027 Internship Opportunities**  
 📊 Passionate about uncovering insights through **data science, machine learning, and analytics**  
 
 <p align="left">
