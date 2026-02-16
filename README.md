@@ -23,8 +23,8 @@ Currently exploring AI systems design, evaluation frameworks, and scalable AI pr
 - 💡 Strong interests in **AI/ML, AI Agents, Machine Learning, and Product Development**  
 - 🚀 Experienced in **data science, operations, and leadership** through internships and student organisations.
 - 🏆 Finalist at NUS SDS Datathon 2026 (Top 1/76 teams)
-- 🏆 Finalist at NUS SDS Datathon 2025 (Top 5/75 teams)
 - 🏆 Finalist at NUS SDS Hackathon 2025 (Top 3/40 teams)  
+- 🏆 Finalist at NUS SDS Datathon 2025 (Top 5/75 teams)
 - ✨ Believer in teamwork, adaptability, and continuous learning  
 
 ---
