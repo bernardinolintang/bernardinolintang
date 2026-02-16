@@ -1,8 +1,14 @@
-# Hello! I'm Bernardino Lintang! 👋
+## 👋 Hi, I’m Bernardino Lintang
 
-🎓 Year 3 Data Science & Analytics Student @ National University of Singapore (NUS)  
-💼 Actively seeking **2026 Aug - Dec and 2027 Internship Opportunities**  
-📊 Passionate about uncovering insights through **data science, machine learning, and analytics**  
+Year 3 Data Science & Analytics student at NUS building explainable AI systems, LLM-powered agents, and production-grade ML applications.
+
+I focus on:
+• Agentic AI workflows  
+• Retrieval-Augmented Generation (RAG) systems  
+• Hybrid ML + LLM architectures  
+• Explainable company intelligence systems  
+
+Currently exploring AI systems design, evaluation frameworks, and scalable AI product deployment.
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bernardinolintang.bernardinolintang&left_color=black&right_color=blue" alt="visitors" />
@@ -20,6 +26,17 @@
 - 🏆 Finalist at NUS SDS Datathon 2025 (Top 5/75 teams)
 - 🏆 Finalist at NUS SDS Hackathon 2025 (Top 3/40 teams)  
 - ✨ Believer in teamwork, adaptability, and continuous learning  
+
+---
+
+## 🌱 Currently Exploring
+
+• Multi-agent orchestration frameworks
+• Vector database optimisation strategies
+• Embedding evaluation techniques
+• LLM cost-latency tradeoffs
+• AI evaluation benchmarks (precision, hallucination detection)
+• AI product management frameworks
 
 ---
 
@@ -96,11 +113,51 @@
 
 ---
 
-## 📊 Projects
-- **NUS Datathon (Finalist, Top 5/75)** – Hybrid recommender system for financial advisor matching; achieved **98.59% Precision@5**.  
-- **DNA-Binding Protein Classifier** – Built ML models (LogReg, RF, CNN) with class-weighted loss functions.  
-- **Taylor Swift Album Reception Analysis** – Visualised acoustic/valence factors influencing ratings using R.  
-- **Diabetes Prediction Models** – Compared ML classifiers on 100k responses; evaluated via AUC & ROC.  
+## 🚀 Flagship Project: IntelliCompany AI (1st Place Winner)
+
+Explainable AI-powered company intelligence system combining classical ML clustering with LLM-based reasoning — fully grounded, no hallucination.
+
+### Problem
+Traditional company intelligence tools lack explainability and rely on black-box scoring systems.
+
+### Solution
+Built a hybrid ML + LLM architecture:
+• K-Prototypes clustering on 8,559 companies
+• 20+ engineered financial and IT intensity features
+• Structured RAG-style retrieval (15 records/query)
+• Guardrail-constrained Llama 3.3 70B via Groq
+• Temperature-controlled outputs (0.1)
+• Dockerised full-stack system
+
+### Technical Highlights
+• Mixed-data clustering (numeric + categorical)
+• Silhouette-based K selection
+• Dynamic knowledge base generation
+• Strict dataset-only grounding
+• No hallucination policy enforcement
+• React + FastAPI production pipeline
+
+### Why This Matters
+Demonstrates ability to:
+• Combine classical ML with modern LLMs
+• Design explainable AI systems
+• Build safe and grounded AI workflows
+• Ship end-to-end AI applications
+
+---
+
+## 🤖 LLM & Agent Experience
+
+### Crayon Data – AI Intern
+• Built LLM-powered workflows to extract structured insights from unstructured merchant datasets
+• Designed prompt pipelines for schema-compliant data generation
+• Implemented guardrails for output consistency
+• Worked with production-grade AI deployment workflows
+
+### CPF Board – Data & AI
+• Worked on AI-driven data pipelines
+• Applied ML models in regulated public sector environments
+• Focused on accuracy, auditability, and stakeholder trust
 
 ---
 
@@ -112,6 +169,24 @@
 
 ---
 
+## 🧠 My AI Systems Approach
+
+When building AI systems, I prioritise:
+
+1. Grounding over hallucination
+2. Classical ML + LLM hybrid architectures
+3. Explainability before automation
+4. Low-temperature deterministic outputs for business settings
+5. Clear guardrails and retrieval constraints
+6. Containerised deployment-ready systems
+
+I believe production AI must be:
+• Safe
+• Interpretable
+• Scalable
+• Cost-aware
+
+---
 ## 📧 Contacts / Profiles
 Reach out to me via the platforms below! My resume is available on request.
 
