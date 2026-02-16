@@ -105,7 +105,7 @@
 ---
 
 ## 🏆 Achievements
-- 🏅 NUS Datathon 2024 Finalist (Top 5/75 teams)  
+- 🏅 NUS Datathon 2026 Finalist (Top 1/76 teams)  
 - 📚 Principal’s Honours Roll (2019 & 2020)  
 - 🎓 Top cohort results for **O-Level Mathematics & Science**  
 - ⭐ Outstanding academic performance in JC1 & JC2  
